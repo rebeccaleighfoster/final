@@ -1,1 +1,1 @@
-A more simple version of my portfolio.
+Rebecca Foster's professional portfolio
